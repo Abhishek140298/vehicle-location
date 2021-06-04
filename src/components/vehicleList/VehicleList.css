@@ -1,0 +1,22 @@
+.dot {
+  height: 5px;
+  width: 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.vehicle_name_div{
+	margin-left: 10px;
+	margin-top: 10px;
+	
+}
+.vehicle_name{
+	padding-left: 10px;
+	padding-top: 20px;
+	
+}
+hr{
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 25px;
+}
